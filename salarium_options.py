@@ -141,7 +141,7 @@ FORMATIONS = [
     "Haute école universitaire (UNI, EPF)",
     "Haute école spécialisée (HES), haute école pédagogique (HEP)",
     "Formation professionnelle supérieure",
-    "Brevet d'enseignement",
+    "École normale",
     "Maturité",
     "Apprentissage complet (CFC)",
     "Formation professionnelle acquise en entreprise",
