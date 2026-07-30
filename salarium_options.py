@@ -1,4 +1,8 @@
 """
+This is the core code for salarium automation, a tool that enables you to see the swiss salaries by slides. 25%, Mediane & Top 75%
+"""
+
+"""
 salarium_options.py — Listes prédéfinies des options Salarium.
 """
 
