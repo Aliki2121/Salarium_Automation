@@ -1,0 +1,19 @@
+# donnees client — ne jamais committer
+*.xlsx
+*.xls
+*.csv
+debug/
+resultats_api*.csv
+combinaisons*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# divers
+.DS_Store
+.idea/
+.vscode/
