@@ -1,0 +1,20 @@
+# donnees client
+*.xlsx
+*.xls
+*.csv
+debug/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# dev
+.git/
+.gitignore
+.idea/
+.vscode/
+README.md
+probe_*.py
+salarium_scraper_playwright.py
